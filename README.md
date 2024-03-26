@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:72%;position:relative;"><iframe src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094">via GIPHY</a></p>
+<div align="center"><iframe src="https://giphy.com/embed/QXwtfadqo7wbfmT46H" width="100%" height="100%" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Smolverse-builder-smol-smolverse-QXwtfadqo7wbfmT46H">via GIPHY</a></p>
 # 💫 About Me:
 I am a Full Stack Developer.<br>I’m working as a Software Engineer and contributing to frontend and backend for building web applications.<br>Exploring Technical Content Writing.<br>In my free time, I solve problems on GeeksforGeeks and read tech articles.
 <div align="center">
