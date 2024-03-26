@@ -19,16 +19,28 @@ I am a Full Stack Developer.<br>I’m working as a Software Engineer and contrib
 </div>
 
 ## 🏆 GitHub Trophies
+<div align="center">
 ![](https://github-profile-trophy.vercel.app/?username=Tu9L3&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+  
+</div>
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
+<div align="center">
+  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ### 🔝 Top Contributed Repo
+<div align="center">
+  
 ![](https://github-contributor-stats.vercel.app/api?username=Tu9L3&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
-### 😂 Random Dev Meme
+### 😂 Dev Meme
+<div align="center">
+  
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Tu9L3&icon=0&color=1)](https://visitcount.itsvg.in)
