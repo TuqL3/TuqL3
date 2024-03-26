@@ -1,12 +1,13 @@
-<div align="center">  
-<iframe src="https://giphy.com/embed/QXwtfadqo7wbfmT46H" width="100%" height="100%" class="giphy-embed" allowFullScreen></iframe>
-</div>
-
 # 💫 About Me:
 I am a Full Stack Developer.<br>I’m working as a Software Engineer and contributing to frontend and backend for building web applications.<br>Exploring Technical Content Writing.<br>In my free time, I solve problems on GeeksforGeeks and read tech articles.
 <div align="center">
 <br/>
 <img src="https://komarev.com/ghpvc/?username=Tu9L3&style=flat-square&color=blue" alt=""/>
+</div>
+<br/>
+
+<div align="center">  
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJjNWFvcTFkbHF6Z292dDUwaHFqdWxhMGhzdngwdGg1cGd2d3IxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif"/>
 </div>
 
 ## 🌐 Socials:
