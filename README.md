@@ -3,6 +3,7 @@
 </div>
 # 💫 About Me:
 I am a Full Stack Developer.<br>I’m working as a Software Engineer and contributing to frontend and backend for building web applications.<br>Exploring Technical Content Writing.<br>In my free time, I solve problems on GeeksforGeeks and read tech articles.
+<br/>
 <div align="center">
   
 <img src="https://komarev.com/ghpvc/?username=Tu9L3&style=flat-square&color=blue" alt=""/>
