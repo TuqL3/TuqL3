@@ -1,6 +1,9 @@
 # 💫 About Me:
 I am a Full Stack Developer.<br>I’m working as a Software Engineer and contributing to frontend and backend for building web applications.<br>Exploring Technical Content Writing.<br>In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
+<div align="center">
+  
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Tung) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Tu9L3) 
