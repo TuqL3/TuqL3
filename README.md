@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img with={200} height={200} src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJjNWFvcTFkbHF6Z292dDUwaHFqdWxhMGhzdngwdGg1cGd2d3IxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="100"/>
+  <div style="width:100%;height:0;padding-bottom:62%;position:relative;"><iframe src="https://giphy.com/embed/QXwtfadqo7wbfmT46H" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Smolverse-builder-smol-smolverse-QXwtfadqo7wbfmT46H">via GIPHY</a></p>
 </div>
 # 💫 About Me:
 I am a Full Stack Developer.<br>I’m working as a Software Engineer and contributing to frontend and backend for building web applications.<br>Exploring Technical Content Writing.<br>In my free time, I solve problems on GeeksforGeeks and read tech articles.
