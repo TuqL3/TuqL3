@@ -3,11 +3,11 @@
 </div>
 <h1 align="center">Hi 👋, I'm Tung</h1>
 <h3 align="center">I am a Full Stack Developer.</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Tu9L3&label=Profile%20views&color=0e75b6&style=flat" alt="Tu9L3" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=TuqL3&label=Profile%20views&color=0e75b6&style=flat" alt="TuqL3" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tu9L3&theme=default" alt="Tu9L3" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TuqL3&theme=default" alt="TuqL3" /></a> </p>
 
-<div align="center"> <a href="https://github.com/Tu9L3" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<div align="center"> <a href="https://github.com/TuqL3" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/tuq.le" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://facebook.com/100024144169427" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 
@@ -51,23 +51,23 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tu9L3&layout=compact&theme=" alt=Tu9L3 />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuqL3&layout=compact&theme=" alt=TuqL3 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Tu9L3&show_icons=true&locale=en&theme=" alt="Tu9L3" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=TuqL3&show_icons=true&locale=en&theme=" alt="TuqL3" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tu9L3&theme=" alt="Tu9L3" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TuqL3&theme=" alt="TuqL3" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/Tu9L3">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tu9L3&theme=github" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tu9L3&theme=github" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tu9L3&theme=github" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tu9L3&theme=github" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tu9L3&theme=github" height="180em" />
+<a href="https://github.com/TuqL3">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TuqL3&theme=github" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TuqL3&theme=github" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TuqL3&theme=github" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TuqL3&theme=github" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TuqL3&theme=github" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Tu9L3&theme=github-compact"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=TuqL3&theme=github-compact"/>
 
 ### ✍️ Dev Quote
 <div align="center">
