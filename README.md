@@ -12,10 +12,10 @@
 <a href="https://instagram.com/tuq.l3" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://facebook.com/100024144169427" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 
-<h3 align="left">Stars</h3>
+<!-- <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuqL3&layout=compact&theme=" alt=TuqL3 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=TuqL3&show_icons=true&locale=en&theme=" alt="TuqL3" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=TuqL3&show_icons=true&locale=en&theme=" alt="TuqL3" /></p> -->
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TuqL3&theme=" alt="TuqL3" /></p>
 
