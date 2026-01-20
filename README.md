@@ -6,7 +6,7 @@
 <h3 align="center">I am a Full Stack Developer.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TuqL3&label=Profile%20views&color=0e75b6&style=flat" alt="TuqL3" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TuqL3&theme=default" alt="TuqL3" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TuqL3&theme=default" alt="TuqL3" /></a> </p> -->
 
 <div align="center"> <a href="https://github.com/TuqL3" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/lukas_chasingwords" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
