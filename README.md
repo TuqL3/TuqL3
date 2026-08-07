@@ -25,7 +25,7 @@
 </div>
 
 <p align="center">
-  <img align="center" height="120" src="https://github-readme-streak-stats.herokuapp.com/?user=TuqL3&theme=default" alt="streak-stats" />
+  <img align="center" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=TuqL3&theme=default" alt="streak-stats" />
 </p>
 
 <p align="center">
@@ -35,11 +35,17 @@
 <h3 align="center">Statistics</h3>
 <div align="center">
   <a href="https://github.com/TuqL3">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TuqL3&theme=github" height="120" alt="summary-stats" />
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TuqL3&theme=github" height="120" alt="top-langs" />
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TuqL3&theme=github" height="120" alt="repos-per-language" />
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TuqL3&theme=github" height="120" alt="productive-time" />
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TuqL3&theme=github" height="120" alt="profile-details" />
+    <p>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TuqL3&theme=github" height="170" alt="summary-stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TuqL3&theme=github" height="170" alt="top-langs" />
+    </p>
+    <p>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TuqL3&theme=github" height="170" alt="repos-per-language" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TuqL3&theme=github" height="170" alt="productive-time" />
+    </p>
+    <p>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TuqL3&theme=github" height="220" alt="profile-details" />
+    </p>
   </a>
 </div>
 
